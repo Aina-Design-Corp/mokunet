@@ -5,7 +5,7 @@
 - Active Research Projects
 	- Food Systems Traceability
 	  - TCP Protocol
-	  - Public and Health Safety Protocol
+	  - Public and Health Safety Application Layer Protocol
       - Machine Learning for Food Aggegation Facilities
     - Regenerate Farming Methods
 	  - Invasive Species Observation
