@@ -3,18 +3,19 @@
 ===============================================
 
 - Active Research Projects
-	- Food Systems Traceability
-	  - TCP Protocol
+	- Short Supply Chain Food Systems
+	  - Remote Operations  
 	  - Public and Health Safety Application Layer Protocol
-      - Machine Learning for Food Aggegation Facilities
+	  - Machine Learning for Food Aggegation Facilities
     - Regenerate Farming Methods
 	  - Invasive Species Observation
-		- Edge Machine Design
-		- Training and Testing
+		- Edge Machine Arhitecture
+		- Coloborative Training and Testing
+		- Crop Diversity Analytics
 - Proposed Core Research
     - Soil Adaptability as Carbon Sink
-	- IPv6 End Point Integrations
-	-  UnifiedPOS for Rural Food Hubs
+	- Agile Production Scheduling
+	- UnifiedPOS for Rural Food Hubs
 
 - Applied Research for New Building Development
     - Cloud Kickoff Development Specs
