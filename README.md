@@ -1,4 +1,4 @@
-## MOKUNET Food Systems Development
+## MOKUNET Farm to Food Systems Development
 # Directory
 ===============================================
 
@@ -12,13 +12,11 @@
 		- Edge Machine Arhitecture
 		- Coloborative Training and Testing
 		- Crop Diversity Analytics
-- Proposed Core Research
+- Core Research
     - Soil Adaptability as Carbon Sink
 	- Agile Production Scheduling
 	- UnifiedPOS for Rural Food Hubs
 
-- Applied Research for New Building Development
-    - Cloud Kickoff Development Specs
-    - BIM Model Operations and Maintenance
-    - Proposed SmartBuilding Specifications
-    - Design Build Pre-Design Specs
+- Applied Research for Food Facitlity ifc Model Prototypes
+    - BIM IoT Object Transforms for Operations and Maintenance
+    - Proposed SmartBuilding Testbed Specifications
