@@ -6,7 +6,7 @@
 	- Short Supply Chain Food Systems
 	  - Remote Development Operations  
 	  - Public and Health Safety Application Layer Protocol
-	  - Machine Learning for Food Aggegation Facilities
+	  - IoT comm bus API's
 	- Regenerate Farming Methods
 	  - Invasive Species Observation
 		- Edge Machine Arhitecture
