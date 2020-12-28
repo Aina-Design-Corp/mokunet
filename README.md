@@ -3,7 +3,7 @@
 ===============================================
 
 - Active Research Projects
-	- Short Supply Chain Food Systems
+	- Short Supply Chain Systems
 	  - Remote Development Operations  
 	  - Public and Health Safety Application Layer Protocol
 	  - IoT comm bus API's
