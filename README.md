@@ -4,19 +4,19 @@
 
 - Active Research Projects
 	- Short Supply Chain Food Systems
-	  - Remote Operations  
+	  - Remote Development Operations  
 	  - Public and Health Safety Application Layer Protocol
 	  - Machine Learning for Food Aggegation Facilities
-    - Regenerate Farming Methods
+	- Regenerate Farming Methods
 	  - Invasive Species Observation
 		- Edge Machine Arhitecture
 		- Coloborative Training and Testing
 		- Crop Diversity Analytics
-- Core Research
+- Core Basic Research
     - Soil Adaptability as Carbon Sink
 	- Agile Production Scheduling
-	- UnifiedPOS for Rural Food Hubs
 
 - Applied Research for Food Facitlity ifc Model Prototypes
     - BIM IoT Object Transforms for Operations and Maintenance
-    - Proposed SmartBuilding Testbed Specifications
+    - UnifiedPOS for Rural Food Hubs    
+    - Facilities Devops
