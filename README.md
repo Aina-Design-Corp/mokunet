@@ -8,10 +8,11 @@
 	  - Public and Health Safety Application Layer Protocol
 	  - IoT comm bus API's
 	- Regenerate Farming Methods
-	  - Invasive Species Observation
+	- Crop Diversity Analytics	 
+	- Invasive Species Observation
 		- Edge Machine Arhitecture
 		- Coloborative Training and Testing
-		- Crop Diversity Analytics
+		
 - Core Basic Research
     - Soil Adaptability as Carbon Sink
 	- Agile Production Scheduling
