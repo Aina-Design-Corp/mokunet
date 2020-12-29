@@ -10,7 +10,7 @@
 	- Regenerate Farming Methods
 	- Crop Diversity Analytics	 
 	- Invasive Species Observation
-		- Edge Machine Arhitecture
+		- Edge Machine Architecture
 		- Coloborative Training and Testing
 		
 - Core Basic Research
