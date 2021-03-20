@@ -1,24 +1,20 @@
-## MOKUNET Food Systems Development
-# Directory
+# Regnerative Farm Research
+
+## MOKUNET Class Development
+
+## Active Research Projects
+
 ===============================================
 
-- Active Research Projects
-	- Short Supply Chain Food Systems
-	  - Remote Operations  
-	  - Public and Health Safety Application Layer Protocol
-	  - Machine Learning for Food Aggegation Facilities
-    - Regenerate Farming Methods
-	  - Invasive Species Observation
-		- Edge Machine Arhitecture
-		- Coloborative Training and Testing
-		- Crop Diversity Analytics
-- Proposed Core Research
-    - Soil Adaptability as Carbon Sink
-	- Agile Production Scheduling
-	- UnifiedPOS for Rural Food Hubs
+- Public and Health Safety Application Layer Protocol
+- IoT comm bus API's
+- Crop Diversity Analytics
+- Invasive Plant Species Observation
 
-- Applied Research for New Building Development
-    - Cloud Kickoff Development Specs
-    - BIM Model Operations and Maintenance
-    - Proposed SmartBuilding Specifications
-    - Design Build Pre-Design Specs
+- Soil Adaptability as Carbon Sink
+
+## Food Facitlity ifc Model Prototypes
+
+- BIM IoT Object Transforms for Operations and Maintenance
+- UnifiedPOS for Rural Food Hubs
+- Facilities DevOps
