@@ -1,4 +1,4 @@
-# Regnerative Farm Research
+# Regenerative Farm Domain
 
 ## MOKUNET Class Development
 
@@ -15,4 +15,4 @@
 ## Food Facitlity ifc Model Prototypes
 
 - BIM IoT Object Transforms for Operations and Maintenance
-- UnifiedPOS for Rural Food Hubs
+- UnifiedPOS for Rural Food Hub Retail Sales
