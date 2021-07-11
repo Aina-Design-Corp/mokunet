@@ -1,4 +1,4 @@
-# Regenerative Farm Domain
+# Regenerative Learning and Life Long Learning
 
 ## MOKUNET Class Development
 
@@ -7,12 +7,12 @@
 ===============================================
 
 - Public and Health Safety Application Layer Protocol
-- IoT comm bus API's
-- Crop Diversity Analytics
-- Invasive Plant Species Observation
-- Soil Adaptability as Carbon Sink
+- Community Access API Speicifications
+- XR/AR for Rural  and Urban Planning
 
-## Food Facitlity ifc Model Prototypes
+
+## Food Facitlity Model Prototypes
 
 - BIM IoT Object Transforms for Operations and Maintenance
+- Food Safety Farm Supply Chain Verification
 - UnifiedPOS for Rural Food Hub Retail Sales
