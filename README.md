@@ -1,17 +1,19 @@
 # Creative Learning Development
 
-## MOKUNET Class Development
+## MOKUNET Community Class Development
 
-## Active Research Projects
+- MokuProjects
+- MokuEvents
 
 ===============================================
+## Active Research Projects
 
 - Public and Health Safety Application Layer Protocol
 - Community Access API Speicifications
 - XR/AR for Rural  and Urban Planning
 
 
-## Food Facitlity Model Prototypes
+## Regional Food Supply Chain Models
 
 - BIM IoT Object Transforms for Operations and Maintenance
 - Food Safety Farm Supply Chain Verification
