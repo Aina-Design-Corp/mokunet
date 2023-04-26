@@ -1,4 +1,4 @@
-# Place-Bsed Knowledge Graph Development
+# Place-Based Knowledge Graph Development
 
 ## Mokunet platform as a service (PAAS)
 
