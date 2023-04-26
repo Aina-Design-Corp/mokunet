@@ -2,7 +2,7 @@
 
 ## Mokunet platform as a service (PAAS)
 
-Mokunet Participatory Learning Platform (PLP) extends BIM referenced data for future Smart City Planning.
+Mokunet Participatory Learning Platform (PLP) extends Building Information Model (BIM) referenced data for future Smart City Planning.
 
 ===============================================
 
@@ -13,7 +13,7 @@ Programming
 Design Context
 - Urban playscapes featuring Agricultural methods and principles
 
-## Mokulab.io BIM Innovation Lab
+## Virtual BIM Innovation Lab
 
 Mokulab BIM models provides unique educational views connecting users with IoT ecosystems
 
