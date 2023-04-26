@@ -1,8 +1,8 @@
-# Organizational Development
+# Knowledge Graph Development
 
 Community members [Mokunet](https://mokunet.org).
 
-## Mokunet.org Community Scale Development
+## Mokunet platform as a service (PAAS)
 
 Mokunet Participatory Learning Platform (PLP) extends BIM referenced data for future Smart City Planning.
 
@@ -10,8 +10,6 @@ Context Scope
 
 - Discovery and k-12 Learning
 - Design Thinking workflows and digital modeling
-
-Standards
 
 ===============================================
 
