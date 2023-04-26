@@ -18,13 +18,5 @@ Design Context
 Mokulab BIM models provides unique educational views connecting users with IoT ecosystems
 
 - Climate Analysis for Rural and Urban Land Planning
-
-## learner.mokulab.io Innovation Lab
-
-- Digital Twin modeling
-
-### AG+Greenthumbs Remote Learning
-
-Outdoor playscapes
-
+- Digital Twin schemes
 - Climate Smart Agriculture
