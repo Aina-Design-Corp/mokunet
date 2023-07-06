@@ -8,12 +8,7 @@ Mokunet Participatory Learning Platform (PLP) extends Building Information Model
 
 Programming
 
-- Discovery and k-12 contiual learning for particpating schools
 - Design Thinking workflows and documentation through digital twin methods
-
-Design Context
-
-- Urban playscapes featuring Agricultural methods and principles
 
 ## Virtual BIM Innovation Lab
 
