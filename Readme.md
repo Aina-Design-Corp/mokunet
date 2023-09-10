@@ -1,8 +1,8 @@
 # Place-Based Knowledge Graph Development
 
-## Mokunet platform as a service (PAAS)
+## Mokunet georeferenced routing service
 
-Mokunet Participatory Learning Platform (PLP) extends Building Information Model (BIM) referenced data for future Smart City Planning. Concepts of moku as a regional planning framework are introduced in early phases of design development for students.
+Mokunet extends Building Information and Landscape 3d Models as referenced objects for future Smart City Planning. Concepts of moku as a regional planning framework are introduced in early phases of design development for students.
 
 ===============================================
 
