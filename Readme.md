@@ -12,8 +12,7 @@ Programming
 
 ## Virtual BIM Innovation Lab
 
-Mokulab BIM models provides unique educational views connecting users with IoT ecosystems
+Mokulab landscape models provide unique educational and learning tools
 
-- Climate Analysis for Rural and Urban Land Planning
-- Digital Twin schemes
-- Climate Smart Agriculture
+- Topic endpoints
+- Regenerative systems and resoure management
