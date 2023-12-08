@@ -1,1 +1,109 @@
-
+{
+"type": "FeatureCollection",
+"name": "Parcels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", 
+        "properties": { 
+            "objectid": 417183, 
+        "parcel_uid": 1068226, 
+        "type": 3, 
+        "tmk": null, 
+        "poi": 134615, 
+        "rec_area_ac": null, 
+        "rec_area_sf": null, 
+        "street_parcel": null, 
+        "zsp": null, 
+        "in_date": "2023-10-20T10:00:00Z", 
+        "in_file_num": "TMK23018_2023-10LS", 
+        "in_edit_event": 17, 
+        "taxpin": null, 
+        "zone": null, 
+        "section": null, 
+        "plat": null, 
+        "parcel_fabric_type": null, 
+        "rpa_source_doc": null, 
+        "dpp_source_doc": null, 
+        "ias_transaction": null, 
+        "subdivision_name": null, 
+        "rpa_spatial_source_doc": null, 
+        "dpp_spatial_source_doc": null, 
+        "rpa_stated_area": null, 
+        "dpp_stated_area": null, 
+        "dpp_approved_area_acres": null, 
+        "dpp_approved_area_sqft": 5821.0, 
+        "dpp_street_parcel": null, 
+        "developer_lot_num": null, 
+        "tmk8num": null, 
+        "tmk9num": null, 
+        "tax_guid": null, 
+        "reg_guid": null, 
+        "tax_last_edited_date": null, 
+        "reg_last_edited_date": null, 
+        "plan_lookup": "TMK23018_2023-10LS", 
+        "globalid": "{A000BA86-AF47-4860-A20F-FAD79EFB986C}", 
+        "SHAPE_Length": 0.0009482392090839352, "SHAPE_Area": 4.7070461533283277e-08 
+    },
+    "geometry": { 
+        "type": "MultiPolygon", 
+        "coordinates": [
+             [ 
+                [ 
+                    [ -157.84015006499996, 21.296401167000056 ], [ -157.840288977999961, 21.296158963000039 ], [ -157.840418478999965, 21.29621657000007 ], [ -157.840348193999972, 21.296355343000073 ], [ -157.840390652999957, 21.296374229000037 ], [ -157.840335281999984, 21.296483556000055 ], [ -157.84015006499996, 21.296401167000056 ] 
+                ] 
+             ] 
+        ] 
+    } },
+{ "type": "Feature", 
+    "properties": {
+        "objectid": 417184, 
+        "parcel_uid": 1068227, 
+        "type": 3, "tmk": null, 
+        "poi": 134641, 
+        "rec_area_ac": null, 
+        "rec_area_sf": null, 
+        "street_parcel": null, 
+        "zsp": null, 
+        "in_date": "2023-10-20T10:00:00Z", 
+        "in_file_num": "TMK23018_2023-10LS", 
+        "in_edit_event": 17, 
+        "taxpin": null, 
+        "zone": null, 
+        "section": null, 
+        "plat": null, 
+        "parcel_fabric_type": null, 
+        "rpa_source_doc": null, 
+        "dpp_source_doc": null, 
+        "ias_transaction": null, 
+        "subdivision_name": null, 
+        "rpa_spatial_source_doc": null, 
+        "dpp_spatial_source_doc": null, 
+        "rpa_stated_area": null, 
+        "dpp_stated_area": null, 
+        "dpp_approved_area_acres": null, 
+        "dpp_approved_area_sqft": 24241.0, 
+        "dpp_street_parcel": null, 
+        "developer_lot_num": null, 
+        "tmk8num": null, 
+        "tmk9num": null, 
+        "tax_guid": null, 
+        "reg_guid": null, 
+        "tax_last_edited_date": null, 
+        "reg_last_edited_date": null, 
+        "plan_lookup": "TMK23018_2023-10LS", 
+        "globalid": "{8E8A21E5-0B75-41AB-956D-65050E49F34D}", 
+        "SHAPE_Length": 0.0019664400621672937, 
+        "SHAPE_Area": 1.9549381877613149e-07 
+    },
+      "geometry": {
+         "type": "MultiPolygon", 
+         "coordinates": [
+            [
+                [ 
+                    [ -157.840418478999965, 21.29621657000007 ], [ -157.840288977999961, 21.296158963000039 ], [ -157.840425000999971, 21.295921798000052 ], [ -157.841018129999981, 21.296185635000029 ], [ -157.841022154999962, 21.296187330000066 ], [ -157.841026021999966, 21.296189320000053 ], [ -157.841029707999979, 21.296191592000071 ], [ -157.841033188999972, 21.296194132000039 ], [ -157.841036442999979, 21.296196924000071 ], [ -157.841039447999975, 21.296199951000062 ], [ -157.841042186999971, 21.296203193000053 ], [ -157.841044640999968, 21.296206629000039 ], [ -157.841046795999972, 21.296210237000025 ], [ -157.841048636999972, 21.296213995000073 ], [ -157.841050150999962, 21.29621787800005 ], [ -157.84105133099996, 21.296221863000028 ], [ -157.841052167999976, 21.296225922000076 ], [ -157.841052656999977, 21.29623003100005 ], [ -157.841052795999957, 21.296234163000065 ], [ -157.841052580999957, 21.296238293000044 ], [ -157.841052016999981, 21.296242394000046 ], [ -157.841051105999981, 21.296246440000061 ], [ -157.841049851999969, 21.296250404000034 ], [ -157.841048121999961, 21.296254573000056 ], [ -157.840963293999977, 21.296458921000067 ], [ -157.840418478999965, 21.29621657000007 ] 
+                ] 
+            ]
+        ] 
+    } }
+]
+}
