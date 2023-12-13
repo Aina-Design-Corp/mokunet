@@ -1,3 +1,3 @@
-# Trusted Graph Development Knowledge Hub
+# A Learning Knowledge Hub
 
-## Mokunet georeferenced routing service for oganizations and clubs
+## Mokunet georeferenced routing service for organizations and clubs
