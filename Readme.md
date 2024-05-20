@@ -1,3 +1,3 @@
-# A Knowledge Hub For Project Based Learning
+# A Knowledge Hub For Project Outcomes Monitoring
 
-## Mokunet georeferenced routing service for organizations and clubs
+## Mokunet georeferenced routing service for organizations engaged in community-based projects
