@@ -1,5 +1,5 @@
-# A Knowledge Hub For Community Supported Agriculture
+# A Knowledge Hub For Community Planning and Land Development Projects
 
-## Mokunet data routing service for organizations engaged in community-based projects
+## Mokunet data routing service for BIM to Digital Twin services
 
 [Visit Mokunet Hawaii](https://hawaii.mokunet.us)
