@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # Mokupuni Hawaiʻi — one shared, trusted map
 
 **Mokunet** holds the islands of Hawaiʻi as one shared, trusted map, organized
