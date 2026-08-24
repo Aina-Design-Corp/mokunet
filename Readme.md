@@ -21,7 +21,7 @@ working there. (Assembled from 18 authoritative state and federal datasets.)
 
 The map is not only something to look at — it is something to build on. This
 repository is Mokunet's public service directory: the short list of the
-surfaces where the shared map is served — to people, and to the software
+surfaces where the shared map is served — to people, and to the software that
 partners bring.
 
 ## Where to go
