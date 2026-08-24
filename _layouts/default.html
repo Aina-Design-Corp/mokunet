@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ page.description | default: site.description }}">
+<title>{{ page.title | default: site.title }}</title>
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site">
+  <div class="wrap">
+    <p class="kicker">Mokunet · one shared, trusted map</p>
+    <nav class="site-nav" aria-label="Site">
+      <a href="https://mokunet.org">mokunet.org</a>
+      <a href="https://hawaii.mokunet.us">Moku Data Governance Hub</a>
+      <a href="https://mokunet.maps.arcgis.com/home/index.html">ArcGIS Online</a>
+      <a href="https://github.com/Aina-Design-Corp/mokunet">Repository</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+  <div class="wrap doc-body">
+{{ content }}
+  </div>
+</main>
+<footer class="site">
+  <div class="wrap">
+    <p><strong>Mokunet</strong> — Mokupuni Hawaiʻi, held as one shared, trusted map, organized by their 33 traditional moku.</p>
+    <p>Stewarded by <a href="https://ainadesign.org">Āina Design Corp</a>, which designs, builds, and operates the network. Official records stay with the agencies that hold them — we honor the official lines; we don't redraw them.</p>
+  </div>
+</footer>
+</body>
+</html>
