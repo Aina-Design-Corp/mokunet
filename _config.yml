@@ -1,0 +1,10 @@
+# Mokunet public service directory — GitHub Pages (legacy Jekyll build).
+# Messaging conforms to mokunet-org docs/CANON.md + docs/VOICE.md; the visual
+# system is carried from kuleana-portal (the network's styling standard).
+# Project-pages base path; relative_url resolves assets against it.
+baseurl: "/mokunet"
+title: Mokupuni Hawaiʻi — one shared, trusted map
+description: >-
+  Mokunet holds the islands of Hawaiʻi as one shared, trusted map, organized by
+  their 33 traditional moku — and serves that map to people and to software
+  alike.
