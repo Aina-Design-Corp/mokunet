@@ -64,6 +64,33 @@ this repository's subject: Mokunet's role as the service layer of the network.
 access for partners and developers is being built. Nothing here is presented
 as further along than it is.
 
+## The network on GitHub
+
+The network's public code and records live under one GitHub organization,
+[Āina Design Corp](https://github.com/Aina-Design-Corp): the owner of the
+people, teams, and repositories listed there, this directory among them.
+
+**Mokunet is the name of the network's pending GitHub enterprise account** —
+the layer above organizations, where the rules that bind every organization
+under it are set, the audit log is kept, and GitHub's own compliance reports
+are held. It is not yet established. It is established, under Āina Design
+Corp's nonprofit standing, when a partner program needs its own organization
+inside it — and not before.
+
+What that means for a partner program:
+
+- **Your own organization, beside ours.** Āina Design Corp remains an
+  organization inside the enterprise. A program that adopts the pattern gets
+  its own — its own people, teams, and repositories — and can take it with it
+  at any time, repositories, history, and public pages intact.
+- **Your own sign-in.** Identity is set per organization, never for the whole
+  enterprise, so your directory decides who is a member, on which team, and
+  when they leave. Your staff never become members of ours.
+- **The pattern in practice.** The
+  [Green Fee transparency demonstration](https://github.com/Aina-Design-Corp/kuleana-portal/blob/main/docs/ENTERPRISE.md)
+  documents the provisioning walkthrough and, honestly, which of these
+  controls it carries today.
+
 ---
 
 Stewarded by [Āina Design Corp](https://ainadesign.org). Some parts of the
