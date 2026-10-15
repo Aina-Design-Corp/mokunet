@@ -31,7 +31,7 @@ partners bring.
 - **[Moku Data Governance Hub](https://hawaii.mokunet.us)** — the platform app:
   data governance and management for Hawaiʻi's moku, with records grounded in
   place and access scoped to your kuleana.
-- **[Research Commons](https://github.com/Aina-Design-Corp/mokulearner-research)** —
+- **[Research Commons](https://aina-design-corp.github.io/mokulearner-research/)** —
   community data intake: screened, qualified datasets contributed in the open.
 - **[Mokunet on ArcGIS Online](https://mokunet.maps.arcgis.com/home/index.html)** —
   the network's geospatial service surface: the shared map's layers, published
